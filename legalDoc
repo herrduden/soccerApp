@@ -1,0 +1,35 @@
+1. Privacy Policy Template (Save as privacy.md)
+Privacy Policy for soccerApp
+Last Updated: June 28, 2026
+
+This Privacy Policy explains how [Your App Name] handles data.
+
+1. Data Collection
+[Your App Name] is a personal automation tool created for individual use. We do not collect, store, or share any personal user data. We do not track you, and we do not use cookies or analytics.
+
+2. How We Use Data
+The application only uses the necessary TikTok API credentials to facilitate automated video posting to your personal account. No data is processed for any purpose other than this specific functionality.
+
+3. Data Security
+Since this is a personal, non-commercial application, no user data is stored on external servers or databases. All interactions with the TikTok API are handled directly by your local instance of the application.
+
+4. Contact
+If you have any questions regarding this policy, please contact me at [Your Email Address].
+
+2. Terms of Service Template (Save as terms.md)
+Terms of Service for soccerApp
+Last Updated: June 28, 2026
+
+By using [Your App Name], you agree to the following terms:
+
+1. Personal Use Only
+This application is strictly for personal use. It is designed to automate posting to your own TikTok account and is not intended for commercial use, mass-distribution, or unauthorized third-party services.
+
+2. Compliance with TikTok
+You agree to abide by the TikTok Terms of Service and Community Guidelines. Any misuse of the TikTok API, including excessive requests that violate rate limits or automated posting of prohibited content, is the sole responsibility of the user.
+
+3. Limitation of Liability
+This application is provided "as is" without any warranties. As the developer and sole user, I am responsible for the usage of this tool. I understand that misuse of this tool may lead to suspension or termination of my TikTok account by TikTok.
+
+4. Changes to Terms
+I reserve the right to modify these terms at any time. Your continued use of the application constitutes your acceptance of the updated terms.
